@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :)
 
 <p align="center">
   I'm <b>Uladzimir Sakhonchyk</b>, a Senior Systems Engineer specializing in Cloud & DevOps with a passion for scalable solutions ☁️
