@@ -35,9 +35,6 @@
 - 🐙 GitHub: [zm99by](https://github.com/zm99by)  
 - 🌍 Location: Kraków, Poland / Remote
 
-😄 **Pronouns**  
-- He/Him
-
 ⚡ **Fun fact**  
 - I once optimized a CI/CD pipeline to deploy in under 5 minutes, fueled by coffee and a love for automation! ☕
 
