@@ -5,9 +5,9 @@
 </p>
 
 ---
-
-![Metrics](/github-metrics.svg)
-
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics">
+</p>
 
 🔭 **I’m currently working on**  
 - An **online educational platform** built with Telegram WebApp, leveraging GCP and Docker for CI/CD and deployment.  
@@ -58,10 +58,5 @@
 - **Monitoring**: Prometheus, Grafana, Google Cloud Monitoring  
 - **Data**: Apache Kafka, Google BigQuery, Google Dataflow  
 - **Automation**: Bash, Python, UNIX Shell  
-
-### 📊 My GitHub Metrics
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics">
-</p>
 
 ---
