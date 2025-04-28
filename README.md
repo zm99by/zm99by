@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBI73gWquK6DJ3W/giphy.gif" width="200" alt="Cloud DevOps GIF">
-</p>
-
-<p align="center">
   I'm <b>Uladzimir Sakhonchyk</b>, a Senior Systems Engineer specializing in Cloud & DevOps with a passion for scalable solutions ☁️
 </p>
 
@@ -12,7 +8,6 @@
 
 🔭 **I’m currently working on**  
 - An **online educational platform** built with Telegram WebApp, leveraging GCP and Docker for CI/CD and deployment.  
-  [📄 Documentation](https://docs.google.com/document/d/1fxunEnLuwhjs3m5MSEo6tvV1c2HEGhVtUTaIU804kxg/edit?pli=1&tab=t.0) | [🔗 Repository](#)
 - Scalable cloud infrastructure projects using **Terraform**, **Kubernetes**, and **Google BigQuery**.
 
 🌱 **I’m currently learning**  
