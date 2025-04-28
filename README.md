@@ -28,7 +28,7 @@
 💬 **Ask me about**  
 - **CI/CD best practices**, **containerization**, or **GCP architecture**.
 - My experience mentoring DevOps teams at **EPAM Lab**.
-
+- 
 📫 **How to reach me**  
 - 📧 Email: zm99by@gmail.com  
 - 💼 LinkedIn: [uladzimir-sakhonchyk](https://linkedin.com/in/uladzimir-sakhonchyk-917a4bb9)  
@@ -37,7 +37,6 @@
 
 ⚡ **Fun fact**  
 - I once optimized a CI/CD pipeline to deploy in under 5 minutes, fueled by coffee and a love for automation! ☕
-
 ---
 
 ### 🛠 My Skills
