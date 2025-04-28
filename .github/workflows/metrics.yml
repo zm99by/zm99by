@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.MTOKEN }}
 
-          user: sorenisanerd
+          user: uladzimir_sakhonchyk
           template: terminal
           base: header, activity, community, repositories, metadata
           base_indepth: yes
