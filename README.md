@@ -6,6 +6,9 @@
 
 ---
 
+![Metrics](/github-metrics.svg)
+
+
 🔭 **I’m currently working on**  
 - An **online educational platform** built with Telegram WebApp, leveraging GCP and Docker for CI/CD and deployment.  
 - Scalable cloud infrastructure projects using **Terraform**, **Kubernetes**, and **Google BigQuery**.
