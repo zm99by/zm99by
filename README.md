@@ -1,58 +1,54 @@
-## Hi there 👋 :)
+## Hi there 👋 I'm Uladzimir :)
 
 <p align="center">
-  I'm <b>Uladzimir Sakhonchyk</b>, a Senior Systems Engineer specializing in Cloud & DevOps with a passion for scalable solutions ☁️
+  <b>Senior Systems Engineer | Cloud & DevOps Enthusiast | Mentor @ EPAM Lab</b><br>
+  <i>Specializing in scalable cloud solutions, Kubernetes orchestration, and automation.</i>
 </p>
 
----
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics">
+  <img src="https://raw.githubusercontent.com/zm99by/zm99by/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
-🔭 **I’m currently working on**  
-- An **online educational platform** built with Telegram WebApp, leveraging GCP and Docker for CI/CD and deployment.  
-- Scalable cloud infrastructure projects using **Terraform**, **Kubernetes**, and **Google BigQuery**.
-
-🌱 **I’m currently learning**  
-- Advanced **Google Cloud Workflows** and **Cloud Endpoints** for microservices orchestration.
-- Deepening my expertise in **Python** for automation and data pipelines.
-
-👯 **I’m looking to collaborate on**  
-- Open-source **DevOps tools** or **cloud-native projects** involving GCP, AWS, or Kubernetes.
-- Educational platforms with innovative UI/UX and cloud integration.
-
-🤔 **I’m looking for help with**  
-- Optimizing **GitHub Actions** workflows for complex CI/CD pipelines.
-- Exploring **Telegram Bot API** integrations for enhanced WebApp functionality.
-
-💬 **Ask me about**  
-- **CI/CD best practices**, **containerization**, or **GCP architecture**.
-- My experience mentoring DevOps teams at **EPAM Lab**.
-- 
-📫 **How to reach me**  
-- 📧 Email: zm99by@gmail.com  
-- 💼 LinkedIn: [uladzimir-sakhonchyk](https://linkedin.com/in/uladzimir-sakhonchyk-917a4bb9)  
-- 🐙 GitHub: [zm99by](https://github.com/zm99by)  
-- 🌍 Location: Kraków, Poland / Remote
-
-⚡ **Fun fact**  
-- I once optimized a CI/CD pipeline to deploy in under 5 minutes, fueled by coffee and a love for automation! ☕
 ---
 
-### 🛠 My Skills
-<p>
-  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
+### 🚀 About Me
+- 🔭 **Currently working on:** An **online educational platform** (Telegram WebApp) leveraging GCP, Docker, and GKE for seamless CI/CD.
+- 🏗️ **Architecting:** Scalable infrastructure using **Terraform**, **Kubernetes**, and **Google BigQuery**.
+- 🌱 **Learning:** Advanced **Google Cloud Workflows**, **Cloud Endpoints**, and **GenAI Integration**.
+- 💬 **Ask me about:** **CI/CD best practices**, **GCP architecture**, or how to deploy in under 5 minutes ☕.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+#### ☁️ Cloud & Infrastructure
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+#### ☸️ Orchestration & Containers
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/helm-%230F1628.svg?style=for-the-badge&logo=helm&logoColor=white)
+
+#### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI, Google Cloud Build  
-- **Containerization**: Docker, Kubernetes, GKE  
-- **IaC**: Terraform, Ansible, Packer  
-- **Monitoring**: Prometheus, Grafana, Google Cloud Monitoring  
-- **Data**: Apache Kafka, Google BigQuery, Google Dataflow  
-- **Automation**: Bash, Python, UNIX Shell  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm99by&layout=compact&theme=tokyonight" alt="Languages" height="180" />
+</p>
 
 ---
+
+### 📫 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/uladzimir-sakhonchyk-917a4bb9" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:zm99by@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <i>"I once optimized a CI/CD pipeline to deploy in under 5 minutes, fueled by coffee! ☕"</i>
+</p>
