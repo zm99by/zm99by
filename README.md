@@ -33,13 +33,21 @@
 ---
 
 ### 📊 Engineering Metrics
+---
+
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <b>📊 Engineering Metrics</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm99by&layout=compact&theme=tokyonight" alt="Languages" height="180" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="90%">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm99by&layout=compact&theme=tokyonight" alt="Languages" height="150" />
+</p>
+
+---
 
 ---
 
