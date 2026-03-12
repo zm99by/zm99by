@@ -32,11 +32,8 @@
 
 ---
 
-### 📊 Engineering Metrics
----
-
 <p align="center">
-  <b>📊 Engineering Metrics</b>
+  <sub>📊 ENGINEERING METRICS</sub>
 </p>
 
 <p align="center">
@@ -46,8 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm99by&layout=compact&theme=tokyonight" alt="Languages" height="150" />
 </p>
-
----
 
 ---
 
