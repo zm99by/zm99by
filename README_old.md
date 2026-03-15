@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics">
+  <img src="https://raw.githubusercontent.com/zm99by/zm99by/output/github-metrics.svg" alt="GitHub Metrics">
   <br><br>
   <img src="https://raw.githubusercontent.com/zm99by/zm99by/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
 </p>
