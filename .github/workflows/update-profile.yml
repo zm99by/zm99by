@@ -68,7 +68,6 @@ jobs:
       - name: Prepare Assets
         run: |
           mkdir -p dist
-          # Перемещаем метрики в папку dist, где уже лежит змейка
           mv github-metrics.svg dist/ 2>/dev/null || true
 
       - name: Deploy to Output Branch
