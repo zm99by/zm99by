@@ -30,7 +30,7 @@
 💬 **Ask me about**  
 - **CI/CD best practices**, **containerization**, or **GCP architecture**.
 - My experience mentoring DevOps teams at **EPAM Lab**.
-- 
+
 📫 **How to reach me**  
 - 📧 Email: zm99by@gmail.com  
 - 💼 LinkedIn: [uladzimir-sakhonchyk](https://linkedin.com/in/uladzimir-sakhonchyk-917a4bb9)  
