@@ -29,7 +29,7 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.NEW_MTOKEN }}
+          token: ${{ secrets.NEW_MTOKEN2 }}
           user: zm99by
           template: terminal
           filename: github-metrics.svg
@@ -77,4 +77,4 @@ jobs:
           build_dir: dist
           commit_message: "chore: update profile assets [skip ci]"
         env:
-          GITHUB_TOKEN: ${{ secrets.NEW_MTOKEN }}
+          GITHUB_TOKEN: ${{ secrets.NEW_MTOKEN2 }}
