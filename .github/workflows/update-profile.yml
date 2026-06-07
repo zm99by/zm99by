@@ -68,6 +68,7 @@ jobs:
       - name: Prepare Assets
         run: |
           echo "Snake SVGs are deployed via Generate Snake step"
+          ls -la
           ls -la dist/ || true
 
     #  - name: Prepare Assets
