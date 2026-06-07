@@ -64,11 +64,22 @@ jobs:
           plugin_stars: yes
           plugin_topics: yes
           repositories_forks: yes
-
       - name: Prepare Assets
         run: |
           mkdir -p dist
-          mv github-metrics.svg dist/ 2>/dev/null || true
+          echo "Files in workspace root:"
+          ls -la
+          if [ -f github-metrics.svg ]; then
+            mv github-metrics.svg dist/
+          else
+            echo "ERROR: github-metrics.svg not found!"
+            exit 1
+          fi
+
+    #  - name: Prepare Assets
+    #    run: |
+    #      mkdir -p dist
+    #      mv github-metrics.svg dist/ 2>/dev/null || true
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
