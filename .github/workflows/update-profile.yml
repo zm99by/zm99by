@@ -32,8 +32,9 @@ jobs:
           token: ${{ secrets.NEW_MTOKEN3 }}
           user: zm99by
           template: terminal
-          filename: github-metrics.svg
+          filename: dist/github-metrics.svg
           output_action: none
+          committer_branch: output
           
           base: header, activity, community, repositories, metadata
           base_indepth: yes
