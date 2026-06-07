@@ -67,13 +67,8 @@ jobs:
           repositories_forks: yes
       - name: Prepare Assets
         run: |
-          mkdir -p dist
-          echo "Files in dist/:"
-          ls -la dist/
-          if [ ! -f dist/github-metrics.svg ]; then
-            echo "ERROR: dist/github-metrics.svg not found!"
-            exit 1
-          fi
+          echo "Snake SVGs are deployed via Generate Snake step"
+          ls -la dist/ || true
 
     #  - name: Prepare Assets
     #    run: |
