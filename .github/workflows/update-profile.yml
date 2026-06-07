@@ -68,12 +68,10 @@ jobs:
       - name: Prepare Assets
         run: |
           mkdir -p dist
-          echo "Files in workspace root:"
-          ls -la
-          if [ -f github-metrics.svg ]; then
-            mv github-metrics.svg dist/
-          else
-            echo "ERROR: github-metrics.svg not found!"
+          echo "Files in dist/:"
+          ls -la dist/
+          if [ ! -f dist/github-metrics.svg ]; then
+            echo "ERROR: dist/github-metrics.svg not found!"
             exit 1
           fi
 
