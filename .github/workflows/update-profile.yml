@@ -81,6 +81,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
           commit_message: "chore: update profile assets [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.NEW_MTOKEN3 }}
